@@ -1,0 +1,15 @@
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\bin\Debug\net6.0\navigálható-mátrix-konzolon.exe
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\bin\Debug\net6.0\navigálható-mátrix-konzolon.deps.json
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\bin\Debug\net6.0\navigálható-mátrix-konzolon.runtimeconfig.json
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\bin\Debug\net6.0\navigálható-mátrix-konzolon.dll
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\bin\Debug\net6.0\navigálható-mátrix-konzolon.pdb
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\navigálható-mátrix-konzolon.csproj.AssemblyReference.cache
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\navigálható-mátrix-konzolon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\navigálható-mátrix-konzolon.AssemblyInfoInputs.cache
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\navigálható-mátrix-konzolon.AssemblyInfo.cs
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\navigálható-mátrix-konzolon.csproj.CoreCompileInputs.cache
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\navigálható-mátrix-konzolon.dll
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\refint\navigálható-mátrix-konzolon.dll
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\navigálható-mátrix-konzolon.pdb
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\navigálható-mátrix-konzolon.genruntimeconfig.cache
+C:\Tritya cucok\Sulaj-School\navigálható-mátrix-konzolon\navigálható-mátrix-konzolon\obj\Debug\net6.0\ref\navigálható-mátrix-konzolon.dll
