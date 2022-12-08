@@ -1,0 +1,15 @@
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\bin\Debug\net6.0\2022.12.08.exe
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\bin\Debug\net6.0\2022.12.08.deps.json
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\bin\Debug\net6.0\2022.12.08.runtimeconfig.json
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\bin\Debug\net6.0\2022.12.08.dll
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\bin\Debug\net6.0\2022.12.08.pdb
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\2022.12.08.csproj.AssemblyReference.cache
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\2022.12.08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\2022.12.08.AssemblyInfoInputs.cache
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\2022.12.08.AssemblyInfo.cs
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\2022.12.08.csproj.CoreCompileInputs.cache
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\2022.12.08.dll
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\refint\2022.12.08.dll
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\2022.12.08.pdb
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\2022.12.08.genruntimeconfig.cache
+C:\Tritya cucok\Sulaj-School\2022.12.08\2022.12.08\obj\Debug\net6.0\ref\2022.12.08.dll
