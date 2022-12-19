@@ -1,0 +1,15 @@
+C:\Users\zolik\Desktop\nemtudom\bin\Debug\net6.0\nemtudom.exe
+C:\Users\zolik\Desktop\nemtudom\bin\Debug\net6.0\nemtudom.deps.json
+C:\Users\zolik\Desktop\nemtudom\bin\Debug\net6.0\nemtudom.runtimeconfig.json
+C:\Users\zolik\Desktop\nemtudom\bin\Debug\net6.0\nemtudom.dll
+C:\Users\zolik\Desktop\nemtudom\bin\Debug\net6.0\nemtudom.pdb
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\nemtudom.csproj.AssemblyReference.cache
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\nemtudom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\nemtudom.AssemblyInfoInputs.cache
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\nemtudom.AssemblyInfo.cs
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\nemtudom.csproj.CoreCompileInputs.cache
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\nemtudom.dll
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\refint\nemtudom.dll
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\nemtudom.pdb
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\nemtudom.genruntimeconfig.cache
+C:\Users\zolik\Desktop\nemtudom\obj\Debug\net6.0\ref\nemtudom.dll

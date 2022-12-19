@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGeEJTlYTaqYS3n//oFgncweHQOF+F7QpnoLEZcqKJjSgDTiixJp1Bg79DMqgmSly4+q8vJB6Tpzuf9hNh2jfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zolik\\Desktop\\nemtudom\\nemtudom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zolik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\zolik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\zolik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\zolik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
